@@ -1,0 +1,5 @@
+flyway.user=bodrudduja
+flyway.password=bodrudduja
+flyway.schemas=susDB
+flyway.url=jdbc:mysql://localhost:3306/susDB
+flyway.locations=filesystem:db/migration,filesystem:home/bodrudduja/Desktop/db/migration
